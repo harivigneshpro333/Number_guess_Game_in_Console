@@ -21,7 +21,20 @@ My True Guess is*** 33 ***
 ...😊😍😉😎✌BETTER LUCK NEXT TIME MY DEAR😊😍😉😎✌...
 ^_^MAKE MORE HAPPIEST MEMEORIES TO JOY YOUR FUTURE🤦‍♀️ 😜 BE SMILE 😉
 
-program covering with 
-*if-else condition
-*loop condition
-*math.random predefined class math
+# Software Used:
+                     * Eclispe idle
+
+# FEATURE OF LOGIN FORM:
+                     * Game Play Only 5 chance gave him
+                     * To guess the Information collection Behind
+                     * Randomly  one num guess the Java by using randant method
+                     
+# packages are:
+                * import java.lang.*
+                * import java.util.*
+# Concepts used:
+               * if-else Condition
+               * Loop Condition
+               * Oops Concepts
+               * Random-predefined methods
+	    
